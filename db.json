@@ -25,7 +25,7 @@
 			"descripcion": "En este Alura+, Genesys, instructora de Alura Latam, nos responde esa pregunta y nos muestra esta conocida herramienta.",
 		},
 		{
-			"id": 4
+			"id": 4,
 			"titulo": "Box Model y Box sizing",
 			"linkVideo": "https://www.youtube.com/watch?v=ts9qfCKamKg",
 			"Categoria": "Front End",
